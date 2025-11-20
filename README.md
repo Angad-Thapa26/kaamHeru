@@ -60,21 +60,8 @@ Built the user interface and handled client-side interactions using React.
 - Bipesh koirala @Bipesh2080 – UI/UX Designer
 Designed the visual experience and user flows to ensure intuitive navigation and accessibility.
 
-📖 Where Users Can Get Help
-- docs/SETUP.md: Full installation and deployment guide
-- docs/API_DOCUMENTATION.md: Backend API reference
-- docs/TROUBLESHOOTING.md: Common issues and fixes
-- docs/BRANDING_GUIDE.md: UI/UX standards and design tokens
-
-
-Contributions 🩼 
-We welcome contributions from the community! Please read our docs/CONTRIBUTING.md before submitting pull requests.
-
-Would you like me to help draft the CONTRIBUTING.md or GOOGLE_OAUTH_SETUP.md next? I can tailor it to your team’s workflow and tech stack.
 
 
 
--Clarity
-Forbes college
-Bharatpur 2 ,Chitwan
+
 
