@@ -1,0 +1,33 @@
+/* Admin Panel Left Space Override */
+/* .css-1at9qkq {
+  width: 0 !important;
+  min-width: 0 !important;
+  max-width: 0 !important;
+} */
+
+/* Additional overrides to ensure no left space in admin panels */
+/* Target any potential left padding or margin that might be causing white space */
+/* .MuiBox-root.css-1at9qkq,
+.MuiContainer-root.css-1at9qkq,
+.MuiPaper-root.css-1at9qkq {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+} */
+
+/* Admin specific layout adjustments */
+/* .admin-panel-container .css-1at9qkq {
+  width: 0 !important;
+} */
+
+/* Remove toolbar padding in admin layout */
+.css-hyum1k-MuiToolbar-root {
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+/* Alternative selector for toolbar in admin drawer */
+.AdminLayout .MuiToolbar-root {
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
