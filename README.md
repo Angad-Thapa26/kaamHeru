@@ -1,6 +1,5 @@
-Team Clarity 🧽
-
 Project - KaamHeru👷
+a hackathone project.
 
 A Local development transparency platform built with the MEARN stack for Codefest 2025 by Team Clarity
 
