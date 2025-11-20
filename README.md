@@ -24,9 +24,7 @@ Prerequisites
 - Git
 - 
 Installation
-# Clone the repo
-git clone https://github.com/CFC-codefest-2025/CODEFEST-Clarity.git
-cd CODEFEST-Clarity
+
 
 # Backend setup
 cd server
